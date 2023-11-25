@@ -5,7 +5,30 @@ import { WindowDropDowns } from 'components';
 import dropDownData from './dropDownData';
 
 export default function Notepad({ onClose }) {
-  const [docText, setDocText] = useState('');
+
+  const resume = `Hello! Alex Nicita here.
+  
+Fullstack freelancer with 10 years dev experience.
+
+Highlights:
+
+  - SWE at big co's: NASA, Apple
+  - CS research: Columbia (bachelors & masters in CS), IBM Research HQ
+  - SWE at startups: Justworks, Qu Capital (acquired)
+  - Venture:
+      - Founded & raised ~$1M for consumer fintech privacy product
+      - Most recently was Head of Engineering at Soma Capital
+  - (now) Freelance: 
+      - advising a corporate spinout
+      - coding part-time for a seed-stage co
+
+Contact: alexandernicita@gmail.com
+
+This site works best on desktop. Have fun.
+
+  `
+
+  const [docText, setDocText] = useState(resume);
   const [wordWrap, setWordWrap] = useState(false);
 
   function onClickOptionItem(item) {
