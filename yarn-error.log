@@ -1,5 +1,5 @@
 Arguments: 
-  /Users/utils/.nvm/versions/node/v18.16.0/bin/node /Users/utils/.yarn/bin/yarn.js deploy -- -m Deploy React app to GitHub Pages
+  /Users/utils/.nvm/versions/node/v18.16.0/bin/node /Users/utils/.yarn/bin/yarn.js deploy
 
 PATH: 
   /Users/utils/.fastlane/bin:/Users/utils/.yarn/bin:/Users/utils/.config/yarn/global/node_modules/.bin:/Users/utils/.nvm/versions/node/v18.16.0/bin:/opt/homebrew/Cellar/llvm@12/12.0.1_1/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/Library/Apple/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Users/utils/.cargo/bin:/Users/utils/Library/Android/sdk/emulator:/Users/utils/Library/Android/sdk/platform-tools:/Users/utils/.cabal/bin:/Users/utils/.ghcup/bin
@@ -14,7 +14,7 @@ Platform:
   darwin arm64
 
 Trace: 
-  SyntaxError: /Users/utils/misc/alexnicita.github.io/package.json: Unexpected token } in JSON at position 735
+  SyntaxError: /Users/utils/misc/alexnicita.github.io/package.json: Unexpected token : in JSON at position 9
       at JSON.parse (<anonymous>)
       at /Users/utils/.yarn/lib/cli.js:1629:59
       at Generator.next (<anonymous>)
@@ -22,13 +22,9 @@ Trace:
       at /Users/utils/.yarn/lib/cli.js:321:13
 
 npm manifest: 
-  {
-    "name": "winXP",
+  "name": "winXP",
     "version": "0.1.0",
-    "homepage": "https://gitname.github.io/react-gh-pages",
-    "private": true,
-    "author": "ShizukuIchi <shizukuichi@gmail.com>",
-    "homepage": "https://winxp.now.sh",
+    "homepage": "https://alexnicita.com",
     "dependencies": {
       "gh-pages": "^6.1.0",
       "lodash.samplesize": "^4.2.0",
@@ -41,12 +37,12 @@ npm manifest:
     },
     "scripts": {
       "predeploy": "yarn build",
-      "deploy": "gh-pages -d build",
+      "deploy": "gh-pages -b master -d build",
       "start": "react-scripts start",
       "build": "react-scripts build",
       "test": "react-scripts test",
       "eject": "react-scripts eject",
-      "now-build": "react-scripts build",
+      "now-build": "react-scripts build"
     },
     "browserslist": [
       ">0.2%",

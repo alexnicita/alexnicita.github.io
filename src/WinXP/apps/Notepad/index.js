@@ -6,11 +6,22 @@ import dropDownData from './dropDownData';
 
 export default function Notepad({ onClose }) {
 
-  const resume = `Hello! Alex Nicita here.
-  
-Fullstack freelancer with 10 years dev experience.
+  const resume = `
 
-Highlights:
+@ethan is this published ok?
+
+---- 1/11/24
+
+is everyone good
+if i write haikus for my
+biweekly writing
+
+----
+  
+
+Hello! Alex Nicita here. Fullstack freelancer. What do you need built?
+
+Dev Experience Highlights:
 
   - SWE at big co's: NASA, Apple
   - CS research: Columbia (bachelors & masters in CS), IBM Research HQ
@@ -26,7 +37,7 @@ Contact: alexandernicita@gmail.com
 
 This site works best on desktop. Have fun.
 
-  `
+`
 
   const [docText, setDocText] = useState(resume);
   const [wordWrap, setWordWrap] = useState(false);
