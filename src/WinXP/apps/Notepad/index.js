@@ -27,11 +27,11 @@ Dev Experience Highlights:
   - CS research: Columbia (bachelors & masters in CS), IBM Research HQ
   - SWE at startups: Justworks, Qu Capital (acquired)
   - Venture:
-      - Founded & raised ~$1M for consumer fintech privacy product
-      - Most recently was Head of Engineering at Soma Capital
-  - (now) Freelance: 
+      - Founded & raised ~$1M for a consumer fintech
+      - Head of Engineering at Soma Capital
+  - (now) Freelance / Fractional. Previous work for clients includes: 
       - advising a corporate spinout
-      - coding part-time for a seed-stage co
+      - coding part-time for a seed-stage web3 co
 
 Contact: alexandernicita@gmail.com
 

@@ -128,6 +128,26 @@ export const defaultAppState = [
     id: genId(),
     zIndex: genIndex(),
   },
+  // {
+  //   component: Notepad,
+  //   header: {
+  //     title: 'alexnicita.com',
+  //     icon: computer,
+  //   },
+  //   defaultSize: {
+  //     width: 200,
+  //     height: 200,
+  //   },
+  //   defaultOffset: {
+  //     x: 500,
+  //     y: 0,
+  //   },
+  //   resizable: true,
+  //   minimized: false,
+  //   maximized: window.innerWidth < 800,
+  //   id: genId(),
+  //   zIndex: genIndex(),
+  // },
 ];
 
 export const defaultIconState = [
