@@ -8,17 +8,6 @@ export default function Notepad({ onClose }) {
 
   const resume = `
 
-@ethan is this published ok?
-
----- 1/11/24
-
-is everyone good
-if i write haikus for my
-biweekly writing
-
-----
-  
-
 Hello! Alex Nicita here. Fullstack freelancer. What do you need built?
 
 Dev Experience Highlights:
@@ -36,6 +25,24 @@ Dev Experience Highlights:
 Contact: alexandernicita@gmail.com
 
 This site works best on desktop. Have fun.
+
+----
+
+Posts for writing group for tech professionals:
+
+---- 1/11/24
+
+is everyone good
+if i write haikus for my
+biweekly writing
+
+---- 1/24/24
+
+for this writing sprint
+i did some rust coding. mul-
+ti threaded server
+
+https://github.com/alexnicita/rust/tree/main/server
 
 `
 
