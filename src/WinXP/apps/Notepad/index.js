@@ -22,7 +22,7 @@ Dev Experience Highlights:
       - advising a corporate spinout
       - coding part-time for a seed-stage web3 co
 
-Contact: alexandernicita@gmail.com
+Contact: customer@alexnicita.com
 
 This site works best on desktop. Have fun.
 
