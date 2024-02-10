@@ -44,6 +44,14 @@ ti threaded server
 
 https://github.com/alexnicita/rust/tree/main/server
 
+---- 2/10/24
+
+coinstripebase?
+what should I write now?
+read this plz
+
+https://academiccommons.columbia.edu/doi/10.7916/wxey-cr42
+
 `
 
   const [docText, setDocText] = useState(resume);
