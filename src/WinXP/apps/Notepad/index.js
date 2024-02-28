@@ -52,6 +52,12 @@ read this plz
 
 https://academiccommons.columbia.edu/doi/10.7916/wxey-cr42
 
+---- 2/28/24
+
+imagine a squall
+and it is rather peacefull
+seasonal writing 
+
 `
 
   const [docText, setDocText] = useState(resume);
