@@ -58,6 +58,12 @@ imagine a squall
 and it is rather peaceful
 seasonal writing 
 
+---- 3/13/24
+
+dozens of essays
+endless exciting dealflow
+where shall we begin 
+
 `
 
   const [docText, setDocText] = useState(resume);
