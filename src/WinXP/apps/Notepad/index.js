@@ -64,6 +64,12 @@ dozens of essays
 endless exciting dealflow
 where shall we begin 
 
+---- 3/28/24
+
+what do we need as
+humans? what do we want as
+people? it's time to
+
 `
 
   const [docText, setDocText] = useState(resume);
