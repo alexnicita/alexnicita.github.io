@@ -70,6 +70,12 @@ what do we need as
 humans? what do we want as
 people? it's time to
 
+---- 4/11/24
+
+semiconductor
+technology influencing
+geopolitics.
+
 `
 
   const [docText, setDocText] = useState(resume);
