@@ -76,6 +76,12 @@ semiconductor
 technology influencing
 geopolitics.
 
+---- 4/25/24
+
+does physical strength
+front run mental fortitude?
+a half marathon:
+
 `
 
   const [docText, setDocText] = useState(resume);
