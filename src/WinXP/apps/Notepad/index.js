@@ -82,6 +82,12 @@ does physical strength
 front run mental fortitude?
 a half marathon:
 
+---- 5/9/24
+
+yes, it does. what will
+we do with this new knowledge?
+acceleration
+
 `
 
   const [docText, setDocText] = useState(resume);
