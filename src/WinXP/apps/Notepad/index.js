@@ -91,7 +91,7 @@ acceleration
 ---- 5/21/24
 
 patterns of thinking
-are frameworks of proccessing
+are frameworks of processing
 bits of creation
 
 `
