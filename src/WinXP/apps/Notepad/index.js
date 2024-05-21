@@ -88,7 +88,7 @@ yes, it does. what will
 we do with this new knowledge?
 acceleration
 
----- 5/9/24
+---- 5/21/24
 
 patterns of thinking
 are frameworks of proccessing
