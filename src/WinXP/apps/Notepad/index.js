@@ -88,6 +88,12 @@ yes, it does. what will
 we do with this new knowledge?
 acceleration
 
+---- 5/9/24
+
+patterns of thinking
+are frameworks of proccessing
+bits of creation
+
 `
 
   const [docText, setDocText] = useState(resume);
