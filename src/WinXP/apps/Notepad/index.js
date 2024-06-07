@@ -94,6 +94,12 @@ patterns of thinking
 are frameworks of processing
 bits of creation
 
+---- 6/7/24
+
+opportunity,
+interdiscplinary;
+similar concepts
+
 `
 
   const [docText, setDocText] = useState(resume);
