@@ -100,6 +100,12 @@ opportunity,
 interdiscplinary;
 similar concepts
 
+---- 6/27/24
+
+thoughts create your words,
+words create your actions, and
+your actions? habits.
+
 `
 
   const [docText, setDocText] = useState(resume);
