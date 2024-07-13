@@ -108,7 +108,7 @@ your actions? habits.
 
 ---- 7/12/24
 
-rythym and routine;
+rhythym and routine;
 disciplined consistency;
 creativity?
 
