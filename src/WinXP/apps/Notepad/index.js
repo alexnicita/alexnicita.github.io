@@ -106,6 +106,12 @@ thoughts create your words,
 words create your actions, and
 your actions? habits.
 
+---- 7/12/24
+
+rythym and routine;
+disciplined consistency;
+creativity?
+
 `
 
   const [docText, setDocText] = useState(resume);
