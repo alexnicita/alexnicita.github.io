@@ -112,6 +112,12 @@ rhythym and routine;
 disciplined consistency;
 creativity?
 
+---- 7/25/24
+
+thinking about less
+haikus. instead, more long form
+posts essays or _?
+
 `
 
   const [docText, setDocText] = useState(resume);
