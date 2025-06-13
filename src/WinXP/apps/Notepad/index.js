@@ -5,7 +5,7 @@ import { WindowDropDowns } from "components";
 import dropDownData from "./dropDownData";
 
 export default function Notepad({ onClose }) {
-  const [docText, setDocText] = useState("");
+  const [docText, setDocText] = useState("Testing deployment...");
   const [wordWrap, setWordWrap] = useState(false);
 
   function onClickOptionItem(item) {
