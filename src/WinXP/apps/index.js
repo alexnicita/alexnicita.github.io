@@ -109,18 +109,18 @@ export const defaultAppState = [
   //   zIndex: genIndex(),
   // },
   {
-    component: Notepad,
+    component: Paint,
     header: {
-      title: 'alexnicita.com',
-      icon: computer,
+      title: 'Untitled - Paint',
+      icon: paint,
     },
     defaultSize: {
       width: 660,
       height: 500,
     },
     defaultOffset: {
-      x: 250,
-      y: 40,
+      x: 280,
+      y: 70,
     },
     resizable: true,
     minimized: true,
